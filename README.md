@@ -1,5 +1,5 @@
 # Mailserver_aiosmtpd_wrapper
-So, You wanted to make a mail server in python? Great. You are at the right place!.
+So, You wanted to make a mail server in python? Great. You are at the right place!
 
 **A brief intro to SMTP:**
 <ol>
