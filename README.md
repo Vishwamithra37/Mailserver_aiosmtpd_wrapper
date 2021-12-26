@@ -21,7 +21,7 @@ The AIOSMTPD library provides a library to implement a **Mail server**, and the 
 
 At its core, SMTP is simply a tcp based application which sends E-mail to whoever is specified in the **SMTP.send (In python)**. In essence, all it needs is an address(IP:port) to send the email specified in the envelope. 
 
-**An simple letter exchange with AIOSMTPD server and Gmail server****
+**An simple letter exchange with AIOSMTPD server and Gmail server**
 
 
 
