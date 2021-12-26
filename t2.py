@@ -1,5 +1,3 @@
-# Copyright 2014-2021 The aiosmtpd Developers
-# SPDX-License-Identifier: Apache-2.0
 
 import asyncio
 from asyncio.base_events import Server
