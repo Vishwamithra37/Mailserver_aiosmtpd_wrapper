@@ -12,3 +12,10 @@ So, You wanted to make a mail server in python? Great. You are at the right plac
     
   </li>
 </ol>
+
+**AIOSMTPD and SMTPlib**
+
+The AIOSMTPD library provides a library to implement a **Mail server**, and the **SMTPlib** library is capable of implementing the smtp protocol.
+
+**A stupid understanding of SMTP in real world**
+At it
